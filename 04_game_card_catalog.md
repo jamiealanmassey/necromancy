@@ -2,7 +2,7 @@
 ## __Card List__
 | Card Name                        | H  | D  | L | S | Type |
 |----------------------------------|----|----|---|---|------|
-| Bastias - Stalker of Night       | 15 | 10 | 3 | 2 | (D)  |
+| Bastias, Stalker of Night        | 15 | 10 | 3 | 2 | (D)  |
 | Bewitched Amulet                 | 10 | 0  | 0 | 0 | (T)  |
 | Bloodwell                        | 7  | 0  | 0 | 0 | (T)  |
 | Famished Familliar               | 5  | 4  | 4 | 4 | (D)  |
@@ -13,13 +13,13 @@
 | Lumbering Gaunt                  | 10 | 8  | 0 | 2 | (S)  |
 | Mechanical Gargantuan            | 4  | 3  | 1 | 0 | (N)  |
 | Minion                           | 1  | 1  | 0 | 0 | (N)  |
-| Mindless Corpsewalker            | 1  | 2  | 0 | 0 | (N)  |
+| [Mindless Corpsewalker](./card_descriptions/necromancy/mindless_corpsewalker.md) | 1  | 2  | 0 | 0 | (N)  |
 | Necrolyte                        | 6  | 4  | 3 | 0 | (N)  |
-| Necrolord - Keeper of the Damned | 5  | 6  | 3 | 0 | (N)  |
-| Necropriest - Keeper of Souls    | 0  | 0  | 0 | 0 | (T)  |
-| Puppeter, The                    | 0  | 0  | 0 | 0 | (T)  |
-| Protector, The                   | 0  | 0  | 0 | 0 | (T)  |
-| Reaper, The                      | 25 | 4  | 5 | 3 | (D)  |
+| Necrolord, Keeper of the Damned  | 5  | 6  | 3 | 0 | (N)  |
+| Necropriest, Keeper of Souls     | 0  | 0  | 0 | 0 | (T)  |
+| Puppeter; The                    | 0  | 0  | 0 | 0 | (T)  |
+| Protector; The                   | 0  | 0  | 0 | 0 | (T)  |
+| Reaper; The                      | 25 | 4  | 5 | 3 | (D)  |
 | Sacrificial Pact                 | 5  | 0  | 0 | 0 | (S)  |
 | Shackled Ghastling               | 12 | 5  | 2 | 1 | (D)  |
 | Shadow Insanity                  | 0  | 0  | 0 | 0 | (S)  |
