@@ -28,7 +28,17 @@ You may have as many __Necromancy__ and __Spirituality__ cards in your deck as y
 | (T)ransmutation | Manipulation of the world and minions using spells to gain an advantage over your opponent.                                                                                    |
 | (S)pirituality  | __Sacrifice__ minions on the board to restore health to other minions and the Player.                                                                                          |
 
-### __Card Archetypes__ (essentially metadata that classifies cards and can sway effects)
-
+### __Card Archetypes__ (essentially metadata that classifies cards and can sway effects, not restricted to one per card)
+| Archetype Name | Description |
+|----------------|-------------|
+| Animal | |
+| Civilian | |
+| Deity | |
+| Demon | |
+| Monster | |
+| Necromancer | |
+| Spirit | |
+| Undead | |
+| Vampire | |
 
 [Table of Contents](01_table_of_contents.md)

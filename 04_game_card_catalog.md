@@ -12,7 +12,7 @@
 | Lost Banshee                     | 3  | 0  | 1 | 0 | (S)  |
 | Lumbering Gaunt                  | 10 | 8  | 0 | 2 | (S)  |
 | Mechanical Gargantuan            | 4  | 3  | 1 | 0 | (N)  |
-| Minion                           | 1  | 1  | 0 | 0 | (N)  |
+| [Minion](./card_descriptions/necromancy/minion.md) | 1  | 1  | 0 | 0 | (N)  |
 | [Mindless Corpsewalker](./card_descriptions/necromancy/mindless_corpsewalker.md) | 1  | 2  | 0 | 0 | (N)  |
 | Necrolyte                        | 6  | 4  | 3 | 0 | (N)  |
 | Necrolord, Keeper of the Damned  | 5  | 6  | 3 | 0 | (N)  |
