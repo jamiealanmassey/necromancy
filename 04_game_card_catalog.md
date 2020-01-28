@@ -17,7 +17,7 @@
 | Necrolyte                        | 6  | 4  | 3 | 0 | (N)  |
 | Necrolord, Keeper of the Damned  | 5  | 6  | 3 | 0 | (N)  |
 | Necropriest, Keeper of Souls     | 0  | 0  | 0 | 0 | (T)  |
-| Puppeter; The                    | 0  | 0  | 0 | 0 | (T)  |
+| [Puppeter; The](./card_descriptions/transmutation/the_puppeteer.md) | 0  | 0  | 0 | 0 | (T)  |
 | Protector; The                   | 0  | 0  | 0 | 0 | (T)  |
 | Reaper; The                      | 25 | 4  | 5 | 3 | (D)  |
 | Sacrificial Pact                 | 5  | 0  | 0 | 0 | (S)  |

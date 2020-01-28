@@ -1,6 +1,6 @@
 # __Mindless Corpsewalker__
-<img src="../../card_images/n_mindless_corpsewalker.jpg" width="329" height="600" />
-<img src="../../card_images/n_mindless_corpsewalker_2.jpg" width="430" height="600" />
+<img src="../../card_images/n_mindless_corpsewalker.jpg" height="600" />
+<img src="../../card_images/n_mindless_corpsewalker_2.jpg" height="600" />
 
 ## __Description__
 The Mindless Corpsewalker is a standard minion type that can be summoned to the field to push out quick damage at a cheap cost. These specific types of minions are so modified beyond the standard follower that they cannot be sacrificed for souls. Corpsewalkers have been modified with engineering contraptions across their bodies to become much more powerful fighters on the battlefield. Apply this process has a great effect on tearing apart their souls from the etheral plane.
@@ -18,4 +18,4 @@ _"He draws closer. Thud. Thud. Thud... My heart beats faster; mindless as he mov
 | 1       | 2       | 0        | 0     | (N)ecromancy | Undead     |
 
 [Game Card Catalog](../../04_game_card_catalog.md)  
-[Table of Contents](01_table_of_contents.md)
+[Table of Contents](../../01_table_of_contents.md)

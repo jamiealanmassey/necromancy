@@ -1,6 +1,6 @@
 # __Mindless Corpsewalker__
-<img src="../../card_images/n_minion.jpg" width="334" height="500" />
-<img src="../../card_images/n_minion_1.jpg" width="297" height="500" />
+<img src="../../card_images/n_minion.jpg" height="500" />
+<img src="../../card_images/n_minion_1.jpg" height="500" />
 
 ## __Description__
 Minions are zombified creatures that carry out your bidding. They are single cost and single damage monsters based on the Undead archetype and can be sacrificed to summon demons onto the playing field. They are largely disposable and you can carry as many of them in your deck as you wish.
@@ -17,4 +17,4 @@ _"Dear Eliza - I write hoping this letter finds you well. We have finally made i
 | 1       | 1       | 0        | 0     | (N)ecromancy | Undead     |
 
 [Game Card Catalog](../../04_game_card_catalog.md)  
-[Table of Contents](01_table_of_contents.md)
+[Table of Contents](../../01_table_of_contents.md)
