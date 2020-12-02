@@ -1,4 +1,4 @@
-# __Mindless Corpsewalker__
+# __Minion__
 <img src="../../card_images/n_minion.jpg" height="500" />
 <img src="../../card_images/n_minion_1.jpg" height="500" />
 
